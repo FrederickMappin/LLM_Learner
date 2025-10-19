@@ -1,6 +1,6 @@
 #        Learn-2-learn Ed Demo Version
-Core Purpose
-The application is designed to facilitate structured learning through AI-powered conversations, providing various pedagogical tools and assessment methods to enhance the educational experience.
+
+This application is designed to facilitate structured learning through AI-powered conversations, providing various pedagogical tools and assessment methods to enhance the educational experience.
 
 Key Features
 1. AI-Powered Chat Interface
